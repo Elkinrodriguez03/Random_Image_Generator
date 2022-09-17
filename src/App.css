@@ -19,7 +19,7 @@ main{
 .header {
   display: flex;
   align-items: center;
-  height: 69px;
+  height: 65px;
   background: #DAB88B;
   color: #FDF6EC;
   padding: 20px;
@@ -37,7 +37,8 @@ main{
 
 .header-project {
   font-size: .75rem;
-  font-weight: 500;
+  font-weight: 500px;
+  color: ;
 }
 
 /*  */
@@ -52,6 +53,14 @@ main{
   font-family: sans-serif;
   border-radius: 6px;
   border: 1px solid #FDF6EC;
+  text-indent: 5px;
+}
+
+.form-buttom {
+  grid-column: 1 / -1;
+  font-family: sans-serif;
+  border-radius: 6px;
+  background: #B7CADB;
   color: #FDF6EC;
   border: none;
   cursor: pointer;

@@ -1,7 +1,7 @@
 export default {
     "success": true,
     "data": {
-        "memes":[
+        "images":[
             {
                 "id": "1928474919",
                 "name": "Shut up and take my money",
