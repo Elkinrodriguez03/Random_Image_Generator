@@ -17,7 +17,7 @@ The whole game is online thanks to a free hosting, then You can access the game 
 You can clone the repository on your local machine and make your own contributions with the next command.
 
 ```
-$ git clone https://github.com/Elkinrodriguez03/Monster-Fight_Game
+$ git clone https://github.com/Elkinrodriguez03/Random_Image_Generator
 ```
 
 ### Installing
