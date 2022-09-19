@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Random Image Generator
 
 This is a program created with ReactJS implementing Unsplash API. I have been working with back-end and database technologies, for that reason I started this project to practice on the implementation, usage and manipulation of APIs. 
