@@ -21,6 +21,7 @@ export default function Image() {
 
     return(
             <main>
+                <section className="intro">
                 <form className="form">
                     <input 
                         type="text"
@@ -40,7 +41,10 @@ export default function Image() {
                         Get a new Random Image 🖼️
                     </button>
                 </form>
-                <img src = {images} className="random-img" />
+                </section>
+                <div className="img-container">
+                    <img src = {images} className="random-img" />
+                </div>
             </main>
         )
     
