@@ -24,11 +24,6 @@ export default function Footer() {
                 <i className="fa-brands fa-whatsapp"></i>
             </a>
         </li>
-            <li className="social-list__item">
-                <a className="social-list__link" href="https://twitter.com/home">
-                <i className="fa-brands fa-twitter"></i>    
-            </a>
-        </li>
         </ul>
     </footer>
 
